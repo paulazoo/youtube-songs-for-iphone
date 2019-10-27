@@ -1,7 +1,7 @@
 # youtube-songs-for-iphone
 download audio files from youtube online song videos that can then be transferred to iphone for offline listening
 
-will add audio into a created file named "YoutubeSongs"
+will add audio into a created folder named "YoutubeSongs"
 
 # to download to iphone:
 1) connect iphone to computer iTunes
