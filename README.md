@@ -9,3 +9,7 @@ will add audio into a created folder named "YoutubeSongs"
 2) click little phone icon at top left
 3) Go to Music
 4) check Sync Music
+
+
+# prereqs:
+youtube_dl
